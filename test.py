@@ -387,10 +387,10 @@ def MLP():
 def main():
     print("In Deep Learning we believe !!")
     print("\n")
-    LR()
+    #LR()
     print("\n")
     MLP()
     print("\n")
-    KNN()
+    #KNN()
 
 main()

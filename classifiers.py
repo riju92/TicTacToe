@@ -48,7 +48,7 @@ def display_test_metrics(testX, testY, clf):
 
 
 
-'''
+
 def SVM_class1(train_X, test_X, train_Y, test_Y):
     #print("############ Linear SVM ############")
     clf = make_pipeline(StandardScaler(), LinearSVC(random_state=0, tol=1e-5))
@@ -355,7 +355,7 @@ def MLP1():
     print("Avg accuracy = " + str(accuracy_avg/k_cross_fold))
 
     display_test_metrics(testX, testY, best_clf)
-'''
+
 def MLP_class2(train_X, test_X, train_Y, test_Y):
     # print(train_X.shape)
     # print(test_X.shape)
@@ -425,11 +425,17 @@ def MLP2():
 
 def main():
     print("Models of the world, UNITE !!")
-    #SVM1()
-    #SVM2()
-    #KNN1()
-    #KNN2()
-    #MLP1()
+    print("\n")
+    SVM1()
+    print("\n")
+    SVM2()
+    print("\n")
+    KNN1()
+    print("\n")
+    KNN2()
+    print("\n")
+    MLP1()
+    print("\n")
     MLP2()
 
 

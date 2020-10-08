@@ -1,0 +1,98 @@
+########### LINEAR REGRESSOR ##############
+######### TRAIN DIM ############
+X:(5240, 9)Y:(5240, 9)
+######### TEST DIM ############
+X:(1311, 9)Y:(1311, 9)
+(516, 9)
+(516, 9)
+(4724, 9)
+(4724, 9)
+Mean Absolute Error: 0.28316106804478897
+Mean Squared Error: 0.28316106804478897
+Root Mean Squared Error: 0.5321288077569086
+Accuracy: 71.6838931955211
+#######################
+(545, 9)
+(545, 9)
+(4695, 9)
+(4695, 9)
+Mean Absolute Error: 0.26870540265035675
+Mean Squared Error: 0.26870540265035675
+Root Mean Squared Error: 0.5183680185450842
+Accuracy: 73.12945973496431
+#######################
+(509, 9)
+(509, 9)
+(4731, 9)
+(4731, 9)
+Mean Absolute Error: 0.2811613184894128
+Mean Squared Error: 0.2811613184894128
+Root Mean Squared Error: 0.53024646956808
+Accuracy: 71.88386815105872
+#######################
+(517, 9)
+(517, 9)
+(4723, 9)
+(4723, 9)
+Mean Absolute Error: 0.2761659144637868
+Mean Squared Error: 0.2761659144637868
+Root Mean Squared Error: 0.525514904130974
+Accuracy: 72.38340855362132
+#######################
+(519, 9)
+(519, 9)
+(4721, 9)
+(4721, 9)
+Mean Absolute Error: 0.27745664739884396
+Mean Squared Error: 0.27745664739884396
+Root Mean Squared Error: 0.5267415375673765
+Accuracy: 72.25433526011561
+#######################
+(526, 9)
+(526, 9)
+(4714, 9)
+(4714, 9)
+Mean Absolute Error: 0.2754541613857203
+Mean Squared Error: 0.2754541613857203
+Root Mean Squared Error: 0.5248372713381932
+Accuracy: 72.45458386142796
+#######################
+(529, 9)
+(529, 9)
+(4711, 9)
+(4711, 9)
+Mean Absolute Error: 0.2747321991178324
+Mean Squared Error: 0.2747321991178324
+Root Mean Squared Error: 0.5241490237688442
+Accuracy: 72.52678008821675
+#######################
+(516, 9)
+(516, 9)
+(4724, 9)
+(4724, 9)
+Mean Absolute Error: 0.27670111972437555
+Mean Squared Error: 0.27670111972437555
+Root Mean Squared Error: 0.5260238775230413
+Accuracy: 72.32988802756245
+#######################
+(514, 9)
+(514, 9)
+(4726, 9)
+(4726, 9)
+Mean Absolute Error: 0.28166882836143536
+Mean Squared Error: 0.28166882836143536
+Root Mean Squared Error: 0.5307248141564849
+Accuracy: 71.83311716385646
+#######################
+(549, 9)
+(549, 9)
+(4691, 9)
+(4691, 9)
+Mean Absolute Error: 0.26553329285569727
+Mean Squared Error: 0.26553329285569727
+Root Mean Squared Error: 0.5152992265234805
+Accuracy: 73.44667071443027
+#######################
+Max accuracy = 73.44667071443027
+Min accuracy = 71.6838931955211
+Avg accuracy = 72.3926004750775
