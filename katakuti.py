@@ -34,7 +34,7 @@ class color:
 
 # loading the mlp regressor model trained on the dataset in pickle format
 #with open('mlp_tictac.pkl', 'rb') as f:
-with open('mlp_model_riju.pkl', 'rb') as f:
+with open('model_params.pkl', 'rb') as f:
     mlp_tictac = pickle.load(f)
 
 # creating the board display and state of the board
